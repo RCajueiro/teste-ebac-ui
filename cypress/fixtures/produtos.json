@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XL",
+        "cor": "Red", 
+        "quantidade": 8
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "33",
+        "cor": "Green", 
+        "quantidade": 7
+    },
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "S",
+        "cor": "Gray", 
+        "quantidade": 6
+    }
+]
